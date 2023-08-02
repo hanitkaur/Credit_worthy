@@ -7,6 +7,4 @@ matplotlib
 plotly
 Pillow
 scipy
-statsmodels
-scikit-learn
 streamlit-option-menu
