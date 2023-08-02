@@ -8,3 +8,4 @@ plotly
 Pillow
 scipy
 streamlit-option-menu
+openpyxl
