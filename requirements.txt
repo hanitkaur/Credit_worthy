@@ -1,15 +1,15 @@
-**Updated requirements.txt:**
+Sure, here's the updated requirements.txt based on the given changes:
 
 ```python
-streamlit
-seaborn
-numpy
-pandas
-pandas-datareader
-matplotlib
-plotly
-Pillow
-scipy
-streamlit-option-menu
-openpyxl
+streamlit==1.5.3
+seaborn==1.1
+numpy==1.25
+pandas==1.2
+pandas-datareader==1.4
+matplotlib==3.1
+plotly==4.1
+Pillow==1.1
+scipy==1.0
+streamlit-option-menu==1.0
+openpyxl==2.3
 ```
