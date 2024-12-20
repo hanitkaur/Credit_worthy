@@ -1,3 +1,6 @@
+**Updated requirements.txt:**
+
+```python
 streamlit
 seaborn
 numpy
@@ -9,3 +12,4 @@ Pillow
 scipy
 streamlit-option-menu
 openpyxl
+```
